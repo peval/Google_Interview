@@ -49,4 +49,19 @@ if (isAwesome) {
         return true
     }
 
+# 任务列表
+- [X] 已完成任务
+- [ ] 未完成任务
 
+添加表情:sparkles: :camel: :boom:
+
+# 表格
+姓名 | 年龄
+----|------
+刘东 | 21
+赵五 | 12
+
+# SHA hash
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
